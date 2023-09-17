@@ -1,0 +1,8 @@
+To create a JAR file from a Maven project in
+IntelliJ IDEA, go to the Maven Tool Window
+(View → Tool Windows → Maven), expand your project in
+the tree, expand Lifecycle, and then double-click on
+package. Maven will compile your package, and the
+compiled JAR file will be written to the
+target/ directory.
+
